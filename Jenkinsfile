@@ -46,7 +46,4 @@ pipeline {
       }
     }
   }
-  environment {
-    TOMCAT_HOME = 'C:\\Tomcat_8.5\\webapps'
-  }
 }
